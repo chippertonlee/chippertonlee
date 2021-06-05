@@ -2,7 +2,7 @@
 - 👀 I’m interested in environmental sustainability & social good
 - 🌱 I’m currently learning CS fundamentals using SICP and Microsoft Docs 
 - 💞️ I’m looking to collaborate on a sustainable and local food project
-- 📫 Connect with me by making a PR on one of my repos(actions > words)
+- 📫 Connect with me by making a PR on one of my repos (actions > words)
 
 <!---
 chippertonlee/chippertonlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
